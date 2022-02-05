@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Himanshu Tomer
-- 👀 I’m interested in Android, Java, Kotlin, Pyton
+- 👀 I’m interested in Android, Java, Kotlin
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on Android Projects
 - 📫 How to reach me @ himanshutomer00@gmail.com
