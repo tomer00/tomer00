@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <img height=100px; src="https://github.com/tomer00/tomer00/assets/68748487/51b23dac-2873-45ec-bb47-6190f09e2282">
@@ -20,7 +19,7 @@
 - 📫 How to reach me **himanshutomer00@gmail.com**
 
  
-<img align="left" width=40px; src="https://github.com/tomer00/tomer00/assets/68748487/c1e8326f-89cd-481e-8542-4ebcf9b71d26" alt="hii"/>
+<img align="left" height=40px; src="https://github.com/tomer00/tomer00/assets/68748487/c1e8326f-89cd-481e-8542-4ebcf9b71d26" alt="hii"/>
 <h3 align="left">Connect with me:</h3>
 <div align="left">
 <a>     ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎    </a>
@@ -30,7 +29,7 @@
 </div>
 
 <p>     ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎    </p>
-<img align="left" width=50px; src="https://github.com/tomer00/tomer00/assets/68748487/7d141320-94c9-4212-916a-3a574435637f" alt="cat"/>
+<img align="left" height=34px; src="https://github.com/tomer00/tomer00/assets/68748487/7d141320-94c9-4212-916a-3a574435637f" alt="cat"/>
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
   <img width="46" />
@@ -76,7 +75,9 @@
   [![TShare](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=tomer00&repo=TShare&theme=blue-green)](https://github.com/tomer00/TShare)
   [![Anganwadi](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=tomer00&repo=Anganwadi-Helper&theme=blue-green)](https://github.com/tomer00/Anganwadi-Helper)
 </div>
-<br/>
+
+
+
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomer00&theme=blue-green&hide_border=false">
   <br/>
@@ -84,9 +85,8 @@
 
 <img src="https://github.com/tomer00/tomer00/assets/68748487/9a4ac5fa-efb6-4e5a-9c0d-7be90f6b9d41" alt="space" width="100%" height="48px"/>
 
-<img align="left" width=56px; src="https://github.com/tomer00/tomer00/assets/68748487/1a2b26bd-e45e-4c0c-93b8-cb0d0eebfbc3" alt="quote"/>
+<img align="left" height=80px; src="https://github.com/tomer00/tomer00/assets/68748487/1a2b26bd-e45e-4c0c-93b8-cb0d0eebfbc3" alt="quote"/>
 <h3 align="left">Random Dev Quote</h3>
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-
