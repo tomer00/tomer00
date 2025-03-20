@@ -8,17 +8,18 @@
 <h3 align="center">Fueled by Passion: An Android Developer from Uttar Pradesh India 🇮🇳</h3>
  <img src="https://github.com/tomer00/tomer00/assets/68748487/9a4ac5fa-efb6-4e5a-9c0d-7be90f6b9d41" alt="space" width="100%" height="40"/>
  <img align="right" width=360px; src="https://github.com/tomer00/tomer00/assets/68748487/ea2dcf3e-9689-41f5-8609-99829936d6a2" alt="mainbg"/>
-
+ 
   
-- 🔭 I’m currently working on **Chit-Chat**
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.gif" alt="🚧" width="26" height="26"> I’m currently working on **Flick-Flow a video streaming service**
 
-- 🌱 I’m currently learning **Spring and Jetpack Compose**
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="26" height="26"> I’m currently learning **Spring and Jetpack Compose**
 
-- 💬 Ask me about **Android Java Kotlin**
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="26" height="26"> Ask me about **Android Java Kotlin**
 
 - 📫 How to reach me **himanshutomer00@gmail.com**
 
-- ❤️ Liked my profile? here is my <a href="https://github.com/hindu744/qrator744/blob/main/AndroidResume.png">**Resume**</a>
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f_200d_1f525/512.gif" alt="❤" width="26" height="26"> Liked my profile? here is my <a href="https://github.com/hindu744/qrator744/blob/main/AndroidResume.png">**Resume**</a>
+- 🌐 Click to check my <a href="https://devhimu.in">**Portfolio**</a>
 
  
 <img align="left" height=40px; src="https://github.com/tomer00/tomer00/assets/68748487/c1e8326f-89cd-481e-8542-4ebcf9b71d26" alt="hii"/>
